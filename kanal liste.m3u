@@ -1,0 +1,39 @@
+#EXTM3U#
+
+#EXTINF:-1, KANAL 7
+https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
+#EXTINF:-1 ,NOW TV
+http://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8u8
+#EXTINF:-1, TV 8
+https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
+#EXTINF:-1, KANAL D
+https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
+#EXTINF:-1, STAR TV
+https://dogus-live.daioncdn.net/startv/startv.m3u8
+#EXTINF:-1, SHOW TV
+https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
+#EXTINF:-1, TV2
+https://live.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8
+#EXTINF:-1, TV TURK
+https://stream.tiviturk.de/live/tiviturk.m3u8
+#EXTINF:-1, TV 4
+https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
+#EXTINF:-1, HALK TV
+https://halktv.daioncdn.net/halktv/halktv_1080p.m3u8?app=c86957d3-74a7-44da-9ad2-dc358c769609
+#EXTINF:-1, TV 360
+https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
+#EXTINF:-1, TRT 2
+http://167.114.115.233:8080/trt2fhd/index.m3u8
+#EXTINF:-1, TRT
+https://tv-trt1-dai.medya.trt.com.tr/master_2.m3u8
+#EXTINF:-1, TRT TURK
+https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1, DMAX
+https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
+#EXTINF:-1, TLC
+https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
+
+
+
+
+
