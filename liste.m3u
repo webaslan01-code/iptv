@@ -43,5 +43,6 @@ https://dogus-live.daioncdn.net/ntv/ntv_1080p-1761228560000.ts?token=e8c0dec16bf
 https://tv100-live.daioncdn.net/tv100/tv100_1080p.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/F5FcvbZ/flash4ok.png" tvg-chno="22",FLASH HABER
 https://flashhaber-live.ercdn.net/flashhaber/flashhaber.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/456FWA7.png" tvg-chno="23",Sozcu TV
+#EXTINF:-1  tvg-logo="http://assets.tvcdn.net/491384df-7154-4404-8f97-2e7847655441.png" tvg-chno="23",Sozcu TV
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Sozcu_Tv.m3u8
+
